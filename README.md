@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashraj-kulshrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashraj-kulshrestha" height="30" width="40" /></a>
-<a href="https://instagram.com/yrk.yashrajkulshresth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yrk.yashrajkulshresth" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rdj3000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rdj3000" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/i.am.iron.man" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="i.am.iron.man" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/love3000ironman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="love3000ironman" height="30" width="40" /></a>
