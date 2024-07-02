@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yashraj</h1>
 <h3 align="center">"Always in beta, always evolving"</h3>
 
+- 🔭 I’m currently working on **upskilling myself.**
+
 - 🌱 I’m currently learning **DSA.**
 
 - 📫 How to reach me **yashrajkul@yrk.gmail.com**
